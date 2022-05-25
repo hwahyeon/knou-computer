@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>04.SVG</title>
+</head>
+<body>
+
+    <h3>4.1 SVG 개요</h3>
+    <ul>
+        <li>Scalable Vector Graphics</li>
+        <li>캔버스는 비트맵 그래픽이기에 한 번 그려진 그림은 크기 조정이나 변환이 불가, 반면 SVG는 품질 저하 없이 크기 조정 등 다양한 변환 가능</li>
+        <li>SVG는 XML 기반의 텍스트 파일 형식을 가짐 -> 간단한 텍스트 편집기로도 작성 편집 가능</li>
+        <li>HTML에서 사용하기 위해 별도의 SVG 소스를 iframe이나 a로 연결 가능도 하나, 직접 HTML에 포함도 가능</li>
+    </ul>
+
+    <h4>예제 4-1</h4>
+    <svg>
+        <circle cx="100" cy="50" r="40" stroke="black" stroke-width="2" fill="red"/>
+    </svg>
+
+    <h3>4.2 도형 및 텍스트 그리기</h3>
+    <h4>4.2.1 기본 도형 그리기</h4>
+    <h4>예제 4-2 사각형</h4>
+    <svg width="300" height="300">
+        <rect x="50" y="20" width="150" height="150"
+            style="fill: green;
+                stroke: rgb(0,0,0);
+                stroke-width: 10;
+                fill-opacity: 0.7;
+                stroke-opacity: 0.7"  />
+    </svg>
+    <h4>예제 4-3 둥근 모서리의 사각형 그리기</h4>
+    <p>rx, ry의 값은 각각 타원의 수평축과 수직축의 반지름을 의미</p>
+    <svg width="300" height="300">
+        <rect x="50" y="20" rx="20" ry="20"
+            width="150" height="150"
+            style="fill: green;
+                stroke: rgb(0,0,0);
+                stroke-width: 10;
+                fill-opacity: 0.7;
+                stroke-opacity: 0.7"  /> 
+    </svg>
+
+    <h4>예제 4-4 원 그리기</h4>
+    <svg width="300" height="300">
+        <circle cx="100" cy="100" r="80" fill="orange" />
+    </svg>
+
+    <h4>예제 4-5 타원 그리기</h4>
+    <p>타원의 중심 cx, cy | 타원의 수평축의 반지름, 수직축의 반지름 rx, ry</p>
+    <svg width="500" height="300">
+        <ellipse cx="250" cy="150" rx="200" ry="50" style="fill:blue" />
+        <ellipse cx="250" cy="150" rx="50" ry="140" style="fill:green" />
+        <ellipse cx="250" cy="150" rx="50" ry="50" style="fill:white" />
+    </svg>
+
+    <h4>예제 4-6 선그리기</h4>
+    <svg width="200" height="200">
+        <line x1="10" y1="10" x2="190" y2="190" style="stroke: red; stroke-width: 5" />
+        <line x1="190" y1="10" x2="10" y2="190" style="stroke: green; stroke-width: 5" />
+        <line x1="10" y1="100" x2="190" y2="100" style="stroke: blue; stroke-width: 15" />
+    </svg>
+    <p>직선이 순차적으로 연결되게 하려면 polyline을 사용한다</p>
+
+    <h4>예제 4-7 연결선 그리기</h4>
+    <svg width="600" height="200" viewBox="0 0 1200 400">
+        <rect x="1" y="1" width="1198" height="398" fill="none" stroke="blue" stroke-width="2" />
+        <polyline fill="none" stroke="blue" stroke-width="10"
+            points="50,375 150,375 150,325 250,325 250,375 350,375
+                    350,250 450,250 450,375 550,375 550,175 650,175
+                    650,375 750,375 750,100 850,100 850,375 950,375
+                    950,25 1050,25 1050,375 1150,375" />
+    </svg>
+    <p>viewBox는 SVG문서 내의 그래픽 요소들이 그려지는 영역을 지정할 때 쓰인다. 예제에서 파란색 테두리가 viewBox다. 예제에선 svg에 사용할 600x200 영역을 1200x400으로 간주하여 그래픽 요소를 해당 영역에 표시한 것.</p>
+
+    <h4>예제 4-8 다각형 그리기(1)</h4>
+    <svg height="300" width="300">
+        <polygon points="150,50 250,250 50,250" style="fill: pink; stroke: black; stroke-width: 3" />
+    </svg>
+
+    <h4>예제 4-9 다각형 그리기(2)</h4>
+    <svg width="400" height="400">
+        <rect x="1" y="1" width="398" height="398" fill="none" stroke="blue" stroke-width="2" />
+        <polygon fill="red" stroke="blue" stroke-width="10"
+            points="200,75 229,161 319,161 247,215
+            273,301 200,250 127,301 153,215
+            81,161 171,161" />
+    </svg>
+    <p>polyline 요소의 맨 마지막 좌표값에 처음 좌표값을 추가하면 polygon요소처럼 다각형을 그릴 수 있다.</p>
+</body>
+</html>
