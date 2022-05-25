@@ -90,5 +90,19 @@
             81,161 171,161" />
     </svg>
     <p>polyline 요소의 맨 마지막 좌표값에 처음 좌표값을 추가하면 polygon요소처럼 다각형을 그릴 수 있다.</p>
+
+    <h4>예제 4-10 경로 그리기(1)</h4>
+    <svg height="300" width="300">
+        <path d="M150,50 L250,250 L50,250 Z"
+            style="fill:pink; stroke: black; stroke-width:3" />
+    </svg>
+    <p>M 제시한 위치로 옮김 | L 선을 그림 | Z 캔버스의 closePath()와 동일, 처음 좌표와 마지막 좌표를 연결하고 경로를 닫음.</p>
+
+    <h4>예제 4-11 경로 그리기(2)</h4>
+    <svg height="300" width="300">
+        <path d="M150,50 l100,200 l-200,0 Z"
+            style="fill:pink; stroke: black; stroke-width:3" />
+    </svg>
+    <p>대문자는 절대적인 좌표값, 소문자는 상대적인 좌표값을 의미함.</p>
 </body>
 </html>
