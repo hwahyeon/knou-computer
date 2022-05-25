@@ -5,3 +5,4 @@
 
 |수강|제목|사용|실습 완료|비고|
 |---|---|---|---|---|
+|20-2|4-2 [HTML5](https://github.com/hwahyeon/KNOU_CS/tree/main/HTML5)|HTML5, CSS3, JavaScript|||
