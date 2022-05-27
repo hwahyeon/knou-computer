@@ -5,4 +5,5 @@
 
 |수강|제목|사용|실습 완료|비고|
 |---|---|---|---|---|
+|19-1|2-1 [HTML웹프로그래밍]()|HTML, CSS, JavaScript|||
 |20-2|4-2 [HTML5](https://github.com/hwahyeon/KNOU_CS/tree/main/HTML5)|HTML5, CSS3, JavaScript|||
