@@ -136,7 +136,7 @@
 
     <h4>4.2.2 텍스트 그리기</h4>
     <h4>예제 4-14 텍스트 그리기</h4>
-    <svg height="300" width="500">
+    <svg height="200" width="500">
         <text x="30" y="50" font-family="Verdana" font-size="40" fill="none" stroke="red" stroke-width="2">컴퓨터과학과</text>
         <text x="30" y="120" font-family="Verdana" font-size="50" fill="blue">HTML5</text>
     </svg>
@@ -165,5 +165,27 @@
     <p>캔버스의 setLineDash()와 동일한 기능</p>
     <p>ex) stroke-dasharray="10,5,5,10"은 10칸 채우고, 5칸 건너 띄고, 5칸 채우고, 10칸 건너띄는 패턴을 의미한다.</p>
 
+    <h3>4.3 SVG 필터</h3>
+    <p>SVG 필터는 블러링, 그림자 등의 특수효과를 부여할 때 사용함</p>
+
+    <h4>4.3.1 블러링 효과</h4>
+    <h4>예제 4-17 블러링 효과</h4>
+    <svg width="450" height="150">
+        <defs>
+            <filter id="f1" x="0" y="0">
+                <feGaussianBlur in="SourceGraphic" stdDeviation="5" />
+            </filter>
+            <filter id="f2" x="0" y="0">
+                <feGaussianBlur in="SourceGraphic" stdDeviation="15" />
+            </filter>
+        </defs>
+        <rect x="10" y="10" width="100" height="100" stroke="red" stroke-width="5" fill="blue" />
+        <rect x="150" y="10" width="100" height="100" stroke="red" stroke-width="5" fill="blue" filter="url(#f1)" />
+        <rect x="300" y="10" width="100" height="100" stroke="red" stroke-width="5" fill="blue" filter="url(#f2)" />
+    </svg>
+    <p>feGaussianBlur에서 SourceGraphic은 전체 요소에 대해 블러링을 적용하는 경우에 쓰인다.</p>
+
+    <h4>4.3.2 그림자 효과</h4>
+    <h4>예제 4-18 그림자 효과</h4>
 </body>
 </html>
