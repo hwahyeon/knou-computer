@@ -5,23 +5,32 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>03.Canvas</title>
-
-    <script src="./js/03.js"></script>
 </head>
 <body>
-    <!--Chapter 3-->
     <div id="canvas"></div>
         <h2>제3장 캔버스</h2>
         <h3>3.1 캔버스 개요</h3>
+        <p>캔버스는 JS코드를 이용해 브라우저에 그림을 그리는 기능이다. 기존 HTML에서는 img요소나 자바 애플릿, 플래시 같은 플러그인을 사용했지만, HTML5에서는 캔버스를 활용한다</p>
+
+        <h4>3.1.1 캔버스의 좌표 시스템</h4>
+        <p>캔버스는 왼쪽 상단 모서리의 좌표를 (0,0)으로 두고, x축은 오른쪽으로, y축은 아래쪽으로 증가하는 구조이다. 캔버스는 비트맵 방식이다.</p>
+
         <h4>3.1.2 캔버스와 컨텍스트 객체</h4>
         <canvas id="myCanvas" width="500" height="300" style="border: 1px solid red;">
             이 브라우저는 HTML5의 canvas를 지원하지 않습니다.
         </canvas>
+        <p>크기를 지정하지 않으면 w300, h150이 생성된다</p>
+        <p>CSS로 캔버스 크기를 설정/변경하면 드로잉 표면의 크기는 변경되지 않아서 예상치 않은 결과가 나올 수 잇다.</p>
+        <p>캔버스를 생성했으면, 캔버스 id를 통해 캔버스 객체를 얻어낸 후, 이 객체로부터 캔버스 컨텍스트 객체를 구해야 한다. 컨텍스트를 통해 실제 그리는 기능 등이 처리된다. 컨텍스트는 getContext("2d")메서드를 사용한다.</p>
 
+        <h4>3.1.3 캔버스 작업의 기본 형태</h4>
+        <canvas id="myCanvas31" width="350" height="200" style="background-color: lightblue;">
+            이 브라우저는 HTML5의 canvas를 지원하지 않습니다.
+        </canvas>
     </div>
-    <!--//Chapter 3-->
 
-
-
+    <!--Script-->
+    <script src="./js/03-01.js"></script>
+    <!--//Script-->
 </body>
 </html>
