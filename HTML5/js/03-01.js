@@ -1,5 +1,5 @@
 // 3-1
-var canvas = document.getElementById("myCanvas31");
+var canvas = document.getElementById("myCanvas0301");
 var context = canvas.getContext("2d");
 
 context.font = "20px 굴림체";
