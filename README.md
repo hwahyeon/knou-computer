@@ -26,7 +26,7 @@
 |20-1|정보통신망|Computer Communications|-||
 |20-2|시뮬레이션|Simulation|-||
 |20-2|컴퓨터구조|Computer Architecture|-||
-|20-2|HTML5|HTML5|HTML5, CSS3, JavaScript||
+|20-2|[HTML5](https://github.com/hwahyeon/knou-html5)|HTML5|HTML5, CSS3, JavaScript||
 |20-2|인공지능|Artificial Intelligence|-||
 |20-2|클라우드컴퓨팅|Cloud Computing|-||
 |21-1|C프로그래밍|C Programming|-||
