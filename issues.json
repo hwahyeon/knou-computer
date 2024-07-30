@@ -20,5 +20,15 @@
         "Chapter 10: \uc790\ubc14\uc2a4\ud06c\ub9bd\ud2b8 \uac1d\uccb4": 16,
         "Chapter 11: \ubb38\uc11c \uac1d\uccb4 \ubaa8\ub378": 17,
         "Chapter 12: jQuery": 18
+    },
+    "Algorithms": {
+        "Chapter 1: \uc54c\uace0\ub9ac\uc998 \uc18c\uac1c": 19,
+        "Chapter 2: \ubd84\ud560\uc815\ubcf5 \uc54c\uace0\ub9ac\uc998": 20,
+        "Chapter 3: \ub3d9\uc801 \ud504\ub85c\uadf8\ub798\ubc0d \uc54c\uace0\ub9ac\uc998": 21,
+        "Chapter 4: \uc695\uc2ec\uc7c1\uc774 \uc54c\uace0\ub9ac\uc998": 22,
+        "Chapter 5: \uc815\ub82c \uc54c\uace0\ub9ac\uc998": 23,
+        "Chapter 6: \ud0d0\uc0c9 \uc54c\uace0\ub9ac\uc998": 24,
+        "Chapter 7: \uadfc\uc0ac \uc54c\uace0\ub9ac\uc998": 25,
+        "Chapter 8: \ud574 \ud0d0\uc0c9 \uc54c\uace0\ub9ac\uc998": 26
     }
 }
