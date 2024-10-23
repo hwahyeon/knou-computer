@@ -6,7 +6,7 @@
 **Labels:** Internet and Information Society
 
 ## Chapters
-- [ ] Chapter 1: 컴퓨터와 정보
+- [x] Chapter 1: 컴퓨터와 정보
 - [ ] Chapter 2: 컴퓨터의 구성과 동작
 - [ ] Chapter 3: 네트워크와 인터넷
 - [ ] Chapter 4: 정보검색
