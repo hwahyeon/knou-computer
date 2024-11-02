@@ -9,7 +9,7 @@
 - [x] Chapter 1: 컴퓨터와 정보
 - [x] Chapter 2: 컴퓨터의 구성과 동작
 - [x] Chapter 3: 네트워크와 인터넷
-- [ ] Chapter 4: 정보검색
+- [x] Chapter 4: 정보검색
 - [ ] Chapter 5: 정보 서비스
 - [ ] Chapter 6: 정보와 윤리
 
