@@ -11,7 +11,7 @@
 - [x] Chapter 3: 네트워크와 인터넷
 - [x] Chapter 4: 정보검색
 - [x] Chapter 5: 정보 서비스
-- [ ] Chapter 6: 정보와 윤리
+- [x] Chapter 6: 정보와 윤리
 
 ### Translated Chapters
 - Chapter 1: Computers and Information
