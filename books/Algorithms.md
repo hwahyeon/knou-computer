@@ -16,7 +16,6 @@
 - [ ] Chapter 8: 해 탐색 알고리즘
 
 ### Translated Chapters
-Translated Chapters
 - Chapter 1: Introduction to Algorithms
 - Chapter 2: Divide and Conquer Algorithms
 - Chapter 3: Dynamic Programming Algorithms
