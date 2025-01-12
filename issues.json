@@ -21,5 +21,16 @@
         "Chapter 6: \ud0d0\uc0c9 \uc54c\uace0\ub9ac\uc998": 24,
         "Chapter 7: \uadfc\uc0ac \uc54c\uace0\ub9ac\uc998": 25,
         "Chapter 8: \ud574 \ud0d0\uc0c9 \uc54c\uace0\ub9ac\uc998": 26
+    },
+    "C Programming": {
+        "Chapter 1: C \uc5b8\uc5b4\uc758 \uac1c\uc694": 33,
+        "Chapter 2: \uc790\ub8cc\ud615\uacfc \uc120\ud589\ucc98\ub9ac\uae30": 34,
+        "Chapter 3: \uc785\ucd9c\ub825\ud568\uc218\uc640 \uc5f0\uc0b0\uc790": 35,
+        "Chapter 4: \uc120\ud0dd \uc81c\uc5b4\ubb38\uacfc \ubc18\ubcf5 \uc81c\uc5b4\ubb38": 36,
+        "Chapter 5: \ud568\uc218\uc640 \uae30\uc5b5 \ud074\ub798\uc2a4": 37,
+        "Chapter 6: \ubc30\uc5f4\uacfc \ud3ec\uc778\ud130": 38,
+        "Chapter 7: \uad6c\uc870\uccb4\uc640 \uacf5\uc6a9\uccb4": 39,
+        "Chapter 8: \ud30c\uc77c\ucc98\ub9ac\ud568\uc218": 40,
+        "Chapter 9: \uba54\ubaa8\ub9ac \ub3d9\uc801 \ud560\ub2f9": 41
     }
 }
