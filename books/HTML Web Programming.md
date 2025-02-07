@@ -9,7 +9,7 @@
 - [x] Chapter 1: HTML 개요
 - [x] Chapter 2: HTML에서 텍스트 표현
 - [x] Chapter 3: HTML에서 그림과 링크 표현
-- [ ] Chapter 4: HTML에서 테이블 표현
+- [x] Chapter 4: HTML에서 테이블 표현
 - [ ] Chapter 5: HTML에서 멀티미디어 표현
 - [ ] Chapter 6: HTML에서 입력양식
 - [ ] Chapter 7: CSS 개요
