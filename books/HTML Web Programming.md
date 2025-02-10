@@ -12,7 +12,7 @@
 - [x] Chapter 4: HTML에서 테이블 표현
 - [x] Chapter 5: HTML에서 멀티미디어 표현
 - [x] Chapter 6: HTML에서 입력양식
-- [ ] Chapter 7: CSS 개요
+- [x] Chapter 7: CSS 개요
 - [ ] Chapter 8: CSS 속성
 - [ ] Chapter 9: 자바스크립트 기본
 - [ ] Chapter 10: 자바스크립트 객체
