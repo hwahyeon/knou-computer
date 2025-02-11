@@ -45,5 +45,14 @@
         "Chapter 9: \uae30\uacc4\ud559\uc2b5": 58,
         "Chapter 10: \uc2e0\uacbd\ud68c\ub85c\ub9dd": 59,
         "Chapter 11: \uc2ec\uce35\ud559\uc2b5": 60
+    },
+    "HTML5": {
+        "Chapter 1: HTML5 \uac1c\uc694": 61,
+        "Chapter 2: HTML5 \uc694\uc18c": 62,
+        "Chapter 3: \uce94\ubc84\uc2a4": 63,
+        "Chapter 4: SVG": 64,
+        "Chapter 5: CSS3": 65,
+        "Chapter 6: \ubc18\uc751\ud615 \uc6f9": 66,
+        "Chapter 7: HTML API": 67
     }
 }
