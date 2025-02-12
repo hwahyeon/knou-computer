@@ -6,7 +6,7 @@
 **Labels:** HTML5
 
 ## Chapters
-- [ ] Chapter 1: HTML5 개요
+- [x] Chapter 1: HTML5 개요
 - [ ] Chapter 2: HTML5 요소
 - [ ] Chapter 3: 캔버스
 - [ ] Chapter 4: SVG
