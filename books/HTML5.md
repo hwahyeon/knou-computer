@@ -7,7 +7,7 @@
 
 ## Chapters
 - [x] Chapter 1: HTML5 개요
-- [ ] Chapter 2: HTML5 요소
+- [x] Chapter 2: HTML5 요소
 - [ ] Chapter 3: 캔버스
 - [ ] Chapter 4: SVG
 - [ ] Chapter 5: CSS3
