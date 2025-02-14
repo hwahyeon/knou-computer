@@ -8,7 +8,7 @@
 ## Chapters
 - [x] Chapter 1: HTML5 개요
 - [x] Chapter 2: HTML5 요소
-- [ ] Chapter 3: 캔버스
+- [x] Chapter 3: 캔버스
 - [ ] Chapter 4: SVG
 - [ ] Chapter 5: CSS3
 - [ ] Chapter 6: 반응형 웹
