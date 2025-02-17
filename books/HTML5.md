@@ -11,7 +11,7 @@
 - [x] Chapter 3: 캔버스
 - [x] Chapter 4: SVG
 - [x] Chapter 5: CSS3
-- [ ] Chapter 6: 반응형 웹
+- [x] Chapter 6: 반응형 웹
 - [ ] Chapter 7: HTML API
 
 ### Translated Chapters
