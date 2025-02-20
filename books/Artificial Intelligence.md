@@ -7,7 +7,7 @@
 
 ## Chapters
 - [x] Chapter 1: 인공지능의 개요
-- [ ] Chapter 2: 문제풀이
+- [x] Chapter 2: 문제풀이
 - [ ] Chapter 3: 탐색에 의한 문제풀이
 - [ ] Chapter 4: 게임트리
 - [ ] Chapter 5: 지식과 인공지능
