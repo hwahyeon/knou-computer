@@ -10,7 +10,7 @@
 - [x] Chapter 2: 멀티미디어시스템 환경
 - [x] Chapter 3: 멀티미디어 데이터
 - [x] Chapter 4: 멀티미디어 데이터 압축
-- [ ] Chapter 5: 웹과 멀티미디어
+- [x] Chapter 5: 웹과 멀티미디어
 - [ ] Chapter 6: 멀티미디어 활용
 - [ ] Chapter 7: 모바일 멀티미디어
 - [ ] Chapter 8: 멀티미디어의 미래
