@@ -9,7 +9,7 @@
 - [x] Chapter 1: 인공지능의 개요
 - [x] Chapter 2: 문제풀이
 - [x] Chapter 3: 탐색에 의한 문제풀이
-- [ ] Chapter 4: 게임트리
+- [x] Chapter 4: 게임트리
 - [ ] Chapter 5: 지식과 인공지능
 - [ ] Chapter 6: 논리에 의한 지식표현
 - [ ] Chapter 7: 퍼지이론
