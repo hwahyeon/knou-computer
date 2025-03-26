@@ -6,7 +6,7 @@ This project is managed by GitHub Project **[Reading University Textbooks](https
 |2018-2|Database Design and Implementation|데이터베이스설계및구현|||
 |2018-2|The Understanding of Education in Open Universities|원격대학교육의이해|||
 |2018-2|C++ Programming|C++프로그래밍|||
-|2019-1|Internet and Information Society|인터넷과 정보사회||✔|
+|2019-1|Internet and Information Society|인터넷과 정보사회|✔|✔|
 |2019-1|Discrete Mathematics|이산수학|||
 |2019-1|HTML Web Programming|HTML 웹프로그래밍|||
 |2019-1|Database|데이터베이스|||
