@@ -9,7 +9,7 @@
 - [x] Chapter 1: 운영체제 개요
 - [x] Chapter 2: 프로세스 개요
 - [x] Chapter 3: 스케줄링 알고리즘
-- [ ] Chapter 4: 병행 프로세스
+- [x] Chapter 4: 병행 프로세스
 - [ ] Chapter 5: 교착상태
 - [ ] Chapter 6: 메모리 관리
 - [ ] Chapter 7: 가상 메모리
