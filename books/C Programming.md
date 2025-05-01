@@ -10,7 +10,7 @@
 - [x] Chapter 2: 자료형과 선행처리기
 - [x] Chapter 3: 입출력함수와 연산자
 - [x] Chapter 4: 선택 제어문과 반복 제어문
-- [ ] Chapter 5: 함수와 기억 클래스
+- [x] Chapter 5: 함수와 기억 클래스
 - [ ] Chapter 6: 배열과 포인터
 - [ ] Chapter 7: 구조체와 공용체
 - [ ] Chapter 8: 파일처리함수
