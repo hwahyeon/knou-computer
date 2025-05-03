@@ -10,7 +10,7 @@
 - [x] Chapter 2: 문제풀이
 - [x] Chapter 3: 탐색에 의한 문제풀이
 - [x] Chapter 4: 게임트리
-- [ ] Chapter 5: 지식과 인공지능
+- [x] Chapter 5: 지식과 인공지능
 - [ ] Chapter 6: 논리에 의한 지식표현
 - [ ] Chapter 7: 퍼지이론
 - [ ] Chapter 8: 컴퓨터 시각과 패턴인식
