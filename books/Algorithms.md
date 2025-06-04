@@ -7,7 +7,7 @@
 
 ## Chapters
 - [x] Chapter 1: 알고리즘 소개
-- [ ] Chapter 2: 분할정복 알고리즘
+- [x] Chapter 2: 분할정복 알고리즘
 - [ ] Chapter 3: 동적 프로그래밍 알고리즘
 - [ ] Chapter 4: 욕심쟁이 알고리즘
 - [ ] Chapter 5: 정렬 알고리즘
