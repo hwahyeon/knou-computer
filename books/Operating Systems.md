@@ -11,7 +11,7 @@
 - [x] Chapter 3: 스케줄링 알고리즘
 - [x] Chapter 4: 병행 프로세스
 - [x] Chapter 5: 교착상태
-- [ ] Chapter 6: 메모리 관리
+- [x] Chapter 6: 메모리 관리
 - [ ] Chapter 7: 가상 메모리
 - [ ] Chapter 8: 장치 관리
 - [ ] Chapter 9: 저장장치 및 파일
