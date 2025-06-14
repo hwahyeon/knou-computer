@@ -6,7 +6,7 @@
 **Labels:** Simulation
 
 ## Chapters
-- [ ] Chapter 1: 시뮬레이션이란?
+- [x] Chapter 1: 시뮬레이션이란?
 - [ ] Chapter 2: 모델링과 시뮬레이션
 - [ ] Chapter 3: 대기행렬 문제
 - [ ] Chapter 4: 시뮬레이션 모델링
