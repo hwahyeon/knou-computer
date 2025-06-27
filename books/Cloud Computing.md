@@ -6,7 +6,7 @@
 **Labels:** Cloud Computing
 
 ## Chapters
-- [ ] Chapter 1: 클라우드 컴퓨팅의 이해
+- [x] Chapter 1: 클라우드 컴퓨팅의 이해
 - [ ] Chapter 2: 클라우드 컴퓨팅 서비스
 - [ ] Chapter 3: 클라우드 컴퓨팅 기술
 - [ ] Chapter 4: 클라우드 아키텍처
