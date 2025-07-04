@@ -8,7 +8,7 @@
 ## Chapters
 - [x] Chapter 1: 시뮬레이션이란?
 - [x] Chapter 2: 모델링과 시뮬레이션
-- [ ] Chapter 3: 대기행렬 문제
+- [x] Chapter 3: 대기행렬 문제
 - [ ] Chapter 4: 시뮬레이션 모델링
 - [ ] Chapter 5: 이산사건 시뮬레이션
 - [ ] Chapter 6: 시뮬레이션 언어
