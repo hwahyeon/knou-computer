@@ -28,6 +28,3 @@ This project is managed by GitHub Project **[Reading University Textbooks](https
 |2020-2|Cloud Computing|클라우드컴퓨팅|||
 |2021-1|C Programming|C프로그래밍|||
 |2021-1|Java Programming|Java프로그래밍|||
-
-
-
