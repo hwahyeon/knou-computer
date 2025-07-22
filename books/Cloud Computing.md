@@ -9,7 +9,7 @@
 - [x] Chapter 1: 클라우드 컴퓨팅의 이해
 - [x] Chapter 2: 클라우드 컴퓨팅 서비스
 - [x] Chapter 3: 클라우드 컴퓨팅 기술
-- [ ] Chapter 4: 클라우드 아키텍처
+- [x] Chapter 4: 클라우드 아키텍처
 - [ ] Chapter 5: 클라우드 컴퓨팅의 미래
 - [ ] Chapter 6: 클라우드 기반 웹사이트 구현
 - [ ] Chapter 7: 클라우드 기반 데이터 분석
